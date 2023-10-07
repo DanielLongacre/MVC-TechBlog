@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "email": "jedi@gmail.com",
+        "password": "bluelightsaber"
+    },
+    {
+        "name": "Han Solo",
+        "email": "pilot@gmail.com",
+        "password": "millenniumfalcon"
+    },
+    {
+        "name": "Ben Kenobi",
+        "email": "master@gmail.com",
+        "password": "onewiththeforce"
+    }
+]
