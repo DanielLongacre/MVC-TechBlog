@@ -31,7 +31,7 @@ Blog.init(
         sequelize,
         timestamps: false,
         freezeTableName: true,
-        underscored: TreeWalker,
+        underscored: true,
         modelName: 'blog'
     }
 );
